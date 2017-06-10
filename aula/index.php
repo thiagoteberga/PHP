@@ -49,7 +49,7 @@
             <a href='exercicios_1.php' class='btn btn-lg btn-success btn-block' role='button' target='_blank'>Visualizar <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
             <hr align="center" width="100" size="1" color=red>
             <h3 class="form-signin-heading">Semana 2 - 10/06/2017</h3>
-            <a href='exercicios_2.php' class='btn btn-lg btn-default btn-block' role='button' target='_blank'>Visualizar <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <a href='exercicios_2.php' class='btn btn-lg btn-success btn-block' role='button' target='_blank'>Visualizar <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
             <hr align="center" width="100" size="1" color=red>
             <h3 class="form-signin-heading">Semana 3 - 24/06/2017</h3>
             <a href='exercicios_3.php' class='btn btn-lg btn-default btn-block' role='button' target='_blank'>Visualizar <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>

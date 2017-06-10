@@ -10,7 +10,7 @@
     
     <link rel="shortcut icon" href="../img/favicon.ico">
 
-    <title>Homework de PHP</title>
+    <title>Aula de PHP</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
@@ -40,20 +40,17 @@
     }
   </style>
   <body>
-
+<?
+session_start();
+$_SESSION['pageviews'] = 1;
+?>
     <div class="container">
       <div class="login">
         <form class="form-signin" name="form1" action="login.php" method="post">
-            <h2 class="form-signin-heading"><b>Homeworkkkk:</b></h2>
-
-            <h3 class="form-signin-heading">1. Faça um formulário que envie uma text area.</h3>
-            <h3 class="form-signin-heading">2. Faça uma página que receba as informações desse form e conte a quantidade de caracteres.</h3>
-            <h3 class="form-signin-heading">3. Adicione a essa página um contador de palavras.</h3>
-            <br>
-            <img src="img/yoda.png"/>
-            <br>
-            Que a <b>força</b> esteja com você.<br><br>
-            <a href='homework_1_form.php' class='btn btn-lg btn-primary btn-block' role='button'> Let's go! <span class='glyphicon glyphicon-thumbs-up' aria-hidden='true'></span> </a>
+            <h2 class="form-signin-heading"><b>Clique no botão abaixo:</b></h2>
+            <h3 class="form-signin-heading">(Setou Session = 1)</h3>
+            <br><br>
+            <a href='versao_17_view.php' class='btn btn-lg btn-primary btn-block' role='button'>Ir para a View <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
         </form>
       </div>
     </div> <!-- /container -->

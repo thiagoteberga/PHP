@@ -8,22 +8,22 @@
     <meta name="description" content="">
     <meta name="author" content="">
     
-    <link rel="shortcut icon" href="img/favicon.ico">
+    <link rel="shortcut icon" href="../img/favicon.ico">
 
-    <title>Aula de PHP</title>
+    <title>Conta Palavras</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <link href="css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+    <link href="../css/ie10-viewport-bug-workaround.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="css/signin.css" rel="stylesheet">
+    <link href="../css/signin.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-    <script src="js/ie-emulation-modes-warning.js"></script>
+    <script src="../js/ie-emulation-modes-warning.js"></script>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -35,31 +35,25 @@
     body {
       height:100%;
       width:100%;
-      background: url(img/bg.png) repeat center center;
+      background: url(../img/bg.png) repeat center center;
  
     }
   </style>
   <body>
 <?
-session_start();
-
-if(isset($_SESSION['pageviews']))
-$_SESSION['pageviews']++;
-else
-$_SESSION['pageviews'] = 1;
+$texto = $_POST['texto'];
+$countwords = explode(" ", $texto);
 ?>
     <div class="container">
       <div class="login">
         <form class="form-signin" name="form1" action="login.php" method="post">
-            <h2 class="form-signin-heading"><b>Clique no botão abaixo:</b></h2>
-            <h3 class="form-signin-heading">(Setou Session = Session + 1)</h3>
+            <h2 class="form-signin-heading"><b>Quantidade de Palavras:</b></h2>
             <br><br>
-            <a href='versao_18_view.php' class='btn btn-lg btn-primary btn-block' role='button'>Ir para a View <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <input type="text" class="form-control" name="username" placeholder="tteberga" value = "<? echo count($countwords);?>" disabled />
+            <br>
+            <a href='homework_1_form.php' class='btn btn-lg btn-primary btn-block' role='button'>Voltar <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
         </form>
       </div>
     </div> <!-- /container -->
-
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
   </body>
 </html>

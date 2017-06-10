@@ -47,43 +47,43 @@
             <h2 class="form-signin-heading"><b>Escolha o Exercício:</b></h2>
             <h3 class="form-signin-heading">Semana 1 - 27/05/2017</h3>
             <br><br>
-            <a href='versao_1.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 1 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <a href='aula_1\versao_1.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 1 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
             <br>
-            <a href='versao_2.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 2 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <a href='aula_1\versao_2.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 2 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
             <br>
-            <a href='versao_3.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 3 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <a href='aula_1\versao_3.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 3 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
             <br>
-            <a href='versao_4.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 4 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <a href='aula_1\versao_4.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 4 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
             <br>
-            <a href='versao_5.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 5 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <a href='aula_1\versao_5.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 5 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
             <br>
-            <a href='versao_6.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 6 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <a href='aula_1\versao_6.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 6 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
             <br>
-            <a href='versao_7.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 7 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <a href='aula_1\versao_7.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 7 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
             <br>
-            <a href='versao_8.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 8 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <a href='aula_1\versao_8.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 8 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
             <br>
-            <a href='versao_9.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 9 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <a href='aula_1\versao_9.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 9 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
             <br>
-            <a href='versao_10.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 10 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <a href='aula_1\versao_10.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 10 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
             <br>
-            <a href='versao_11.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 11 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <a href='aula_1\versao_11.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 11 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
             <br>
-            <a href='versao_12.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 12 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <a href='aula_1\versao_12.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 12 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
             <br>        
-            <a href='versao_13.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 13 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <a href='aula_1\versao_13.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 13 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
             <br>        
-            <a href='versao_14.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 14 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <a href='aula_1\versao_14.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 14 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
             <br>
-            <a href='versao_15.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 15 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <a href='aula_1\versao_15.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 15 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
             <br>
-            <a href='versao_16.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 16 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <a href='aula_1\versao_16.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 16 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
             <br>
-            <a href='versao_17.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 17 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <a href='aula_1\versao_17.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 17 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
             <br>
-            <a href='versao_18.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 18 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <a href='aula_1\versao_18.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 18 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
             <br>
-            <a href='homework_1.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Homework <span class='glyphicon glyphicon-pencil' aria-hidden='true'></span> </a>
+            <a href='aula_1\homework_1.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Homework <span class='glyphicon glyphicon-pencil' aria-hidden='true'></span> </a>
             <br>
         </form>
       </div>

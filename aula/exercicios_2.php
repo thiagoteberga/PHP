@@ -47,11 +47,21 @@
             <h2 class="form-signin-heading"><b>Escolha o Exercício:</b></h2>
             <h3 class="form-signin-heading">Semana 2 - 10/06/2017</h3>
             <br><br>
-            <a href='#' class='btn btn-lg btn-default btn-block' role='button' target='_blank'>Exercicio X <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <a href='aula_2\versao_1.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 1 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
             <br>
-            <a href='#' class='btn btn-lg btn-default btn-block' role='button' target='_blank'>Exercicio Y <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <a href='aula_2\versao_2.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 2 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
             <br>
-            <a href='#' class='btn btn-lg btn-default btn-block' role='button' target='_blank'>Exercicio Z <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <a href='aula_2\versao_3.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 3 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <br>
+            <a href='aula_2\versao_4.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 4 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <br>
+            <a href='aula_2\versao_5.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 5 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <br>
+            <a href='aula_2\versao_6.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 6 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <br>
+            <a href='aula_2\versao_7.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 7 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
+            <br>
+            <a href='aula_2\versao_8.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 8 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
             <br>
             <hr align="center" width="100" size="1" color=red>
             <br>

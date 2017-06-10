@@ -1,0 +1,5 @@
+<?
+class Pessoa {
+    public $nome;
+}
+?>
