@@ -83,7 +83,7 @@
             <br>
             <a href='versao_18.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Exercicio 18 <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
             <br>
-            <a href='homework_1.php' class='btn btn-lg btn-default btn-block' role='button' target='_blank'>Homework <span class='glyphicon glyphicon-pencil' aria-hidden='true'></span> </a>
+            <a href='homework_1.php' class='btn btn-lg btn-primary btn-block' role='button' target='_blank'>Homework <span class='glyphicon glyphicon-pencil' aria-hidden='true'></span> </a>
             <br>
         </form>
       </div>

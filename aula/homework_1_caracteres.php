@@ -10,7 +10,7 @@
     
     <link rel="shortcut icon" href="img/favicon.ico">
 
-    <title>Homework de PHP</title>
+    <title>Conta Caracteres</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -40,20 +40,17 @@
     }
   </style>
   <body>
-
+<?
+$texto = $_POST['texto'];
+?>
     <div class="container">
       <div class="login">
         <form class="form-signin" name="form1" action="login.php" method="post">
-            <h2 class="form-signin-heading"><b>Homework:</b></h2>
-
-            <h3 class="form-signin-heading">1. Faça um formulário que envie uma text area.</h3>
-            <h3 class="form-signin-heading">2. Faça uma página que receba as informações desse form e conte a quantidade de caracteres.</h3>
-            <h3 class="form-signin-heading">3. Adicione a essa página um contador de palavras.</h3>
+            <h2 class="form-signin-heading"><b>Quantidade de Caracteres:</b></h2>
+            <br><br>
+            <input type="text" class="form-control" name="username" placeholder="tteberga" value = "<? echo strlen($texto);?>" disabled />
             <br>
-            <img src="img/yoda.png"/>
-            <br>
-            Que a <b>força</b> esteja com você.<br><br>
-            <a href='homework_1_form.php' class='btn btn-lg btn-primary btn-block' role='button'> Sorry about that! <span class='glyphicon glyphicon-thumbs-up' aria-hidden='true'></span> </a>
+            <a href='homework_1_form.php' class='btn btn-lg btn-primary btn-block' role='button'>Voltar <span class='glyphicon glyphicon-folder-open' aria-hidden='true'></span> </a>
         </form>
       </div>
     </div> <!-- /container -->

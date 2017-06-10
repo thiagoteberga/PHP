@@ -10,7 +10,7 @@
     
     <link rel="shortcut icon" href="img/favicon.ico">
 
-    <title>Homework de PHP</title>
+    <title>Formulario - Homework</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -43,17 +43,24 @@
 
     <div class="container">
       <div class="login">
-        <form class="form-signin" name="form1" action="login.php" method="post">
-            <h2 class="form-signin-heading"><b>Homework:</b></h2>
+        <form class="form-signin" name="usuarios" action="homework_1_caracteres.php" method="post">
+            <h2 class="form-signin-heading">Formulário Conta Caracteres:</h2>
+            Digite o texto:
+            <textarea name="texto" rows="5" cols="40" class="form-control" autofocus><?php echo "Contador Maroto 1";?></textarea>
+            <br />
+            <input class="btn btn-lg btn-primary btn-block" type="submit" value="Contar Caracteres" />
+        </form>
+      </div>
+    </div> <!-- /container -->
 
-            <h3 class="form-signin-heading">1. Faça um formulário que envie uma text area.</h3>
-            <h3 class="form-signin-heading">2. Faça uma página que receba as informações desse form e conte a quantidade de caracteres.</h3>
-            <h3 class="form-signin-heading">3. Adicione a essa página um contador de palavras.</h3>
-            <br>
-            <img src="img/yoda.png"/>
-            <br>
-            Que a <b>força</b> esteja com você.<br><br>
-            <a href='homework_1_form.php' class='btn btn-lg btn-primary btn-block' role='button'> Sorry about that! <span class='glyphicon glyphicon-thumbs-up' aria-hidden='true'></span> </a>
+    <div class="container">
+      <div class="login">
+        <form class="form-signin" name="usuarios" action="homework_1_words.php" method="post">
+            <h2 class="form-signin-heading">Formulário Conta Palavras:</h2>
+            Digite o texto:
+            <textarea name="texto" rows="5" cols="40" class="form-control" autofocus><?php echo "Contador Maroto 2";?></textarea>
+            <br />
+            <input class="btn btn-lg btn-primary btn-block" type="submit" value="Contar Palavras" />
         </form>
       </div>
     </div> <!-- /container -->
